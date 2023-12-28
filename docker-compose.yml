@@ -1,0 +1,131 @@
+version: "3.9"
+services:
+#  redis 尚未設定與執行
+  redis:
+    container_name: redis-001
+    image: redis:latest
+    command: redis-server
+    volumes:
+      - ./redis:/data'
+    ports:
+        - '6379:6379'
+    restart: always
+    networks:
+      my-bridge-001:
+
+  mysql-db:
+    container_name: db-shopping-web
+    image: mysql:latest
+    volumes:
+      - db_data:/var/lib/mysql
+      - ./db:/docker-entrypoint-initdb.d
+    ports:
+        - '3308:3306'
+    environment:
+      - MYSQL_PORT=3306  # cannot change this port to other number
+      - MYSQL_ROOT_HOST=%
+      - MYSQL_DATABASE=${MYSQL_DATABASE}
+      - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
+    networks:
+      my-bridge-001:
+    restart: always
+    healthcheck:
+      test: "/usr/bin/mysql --user=root --password=${MYSQL_ROOT_PASSWORD} --execute \"SHOW DATABASES;\""
+      interval: 20s
+      timeout: 20s
+      retries: 6
+      start_period: 60s
+
+  mysql-db2:
+    container_name: db-shopping-cart
+    image: mysql:latest
+    ports:
+        - '3307:3306'
+    environment:
+      - MYSQL_PORT=3306  # cannot change this port to other number
+      - MYSQL_ROOT_HOST=%
+      - MYSQL_DATABASE=${MYSQL_CART_DATABASE}
+      - MYSQL_USER=${MYSQL_CART_USER}
+      - MYSQL_PASSWORD=${MYSQL_ROOT_PASSWORD}
+      - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
+    networks:
+      my-bridge-001:
+    volumes:
+      - api_db_data:/var/lib/mysql
+      - ./db:/docker-entrypoint-initdb.d
+    restart: always
+    healthcheck:
+      test: "/usr/bin/mysql --user=root --password=${MYSQL_ROOT_PASSWORD} --execute \"SHOW DATABASES;\""
+      interval: 20s
+      timeout: 20s
+      retries: 6
+      start_period: 60s
+
+  django-web-app:
+    container_name: shopping-web
+    environment:
+      HOME: &HOME /home
+    env_file:
+      - .env
+    build:
+      context: ./plant_django
+      args:
+        HOME: *HOME
+        APP_PATH: ${APP_PATH}
+        STATIC_PATH: ${STATIC_PATH}
+        MEDIA_PATH: ${MEDIA_PATH}
+        PIP_CACHE_PATH: ${PIP_CACHE_PATH}
+    expose:
+      - ${APP_HOST_PROT}
+    volumes:
+      - pip_cache:${PIP_CACHE_PATH}
+      - /tmp/log:/tmp
+      - static_data:${STATIC_PATH}
+      - media_data:${MEDIA_PATH}
+      - ./plant_django:${APP_PATH}
+    command: bash start.sh
+    links:
+      - mysql-db
+      - mysql-db2
+      - redis
+    depends_on:
+      mysql-db:
+         condition: service_healthy
+      mysql-db2:
+         condition: service_healthy
+      redis:
+         condition: service_started
+    restart: always
+    networks:
+      my-bridge-001:
+
+  nginx-001:
+    container_name: nginx-django
+    build:
+      context: ./nginx
+    ports:
+        - "8082:80"
+#        - "443:443"
+    volumes:
+      - static_data:${STATIC_PATH}
+      - media_data:${MEDIA_PATH}
+#      - ./deployment/nginx/ssl:/usr/share/nginx/html/ssl
+      - ./nginx/log:/var/log/nginx
+    links:
+      - django-web-app
+    depends_on:
+      django-web-app:
+         condition: service_started
+    restart: always
+    networks:
+      my-bridge-001:
+
+networks:
+  my-bridge-001:
+
+volumes:
+  pip_cache:
+  db_data:
+  api_db_data:
+  static_data:
+  media_data:

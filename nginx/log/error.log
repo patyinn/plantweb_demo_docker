@@ -1,0 +1,1000 @@
+2023/12/25 03:26:56 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:26:59 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:27:04 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:27:09 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:27:13 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:27:17 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:33:48 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:33:52 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:33:54 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:33:58 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:34:01 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:36:35 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:36:40 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:36:44 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:36:49 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:36:55 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:37:00 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:37:06 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:37:15 [emerg] 1#1: host not found in upstream "shopping-web:8081" in /etc/nginx/conf.d/mysite_nginx.conf:3
+2023/12/25 03:37:32 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:37:59 [emerg] 1#1: host not found in upstream "shopping-web:8081" in /etc/nginx/conf.d/mysite_nginx.conf:3
+2023/12/25 03:39:30 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:39:34 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:39:38 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:39:46 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:39:50 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:39:57 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:40:05 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:40:14 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:40:29 [emerg] 1#1: host not found in upstream "shopping-web:8081" in /etc/nginx/conf.d/mysite_nginx.conf:3
+2023/12/25 03:40:58 [emerg] 1#1: host not found in upstream "shopping-web:8081" in /etc/nginx/conf.d/mysite_nginx.conf:3
+2023/12/25 03:42:29 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:42:34 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:42:37 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:42:40 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:42:43 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:45:00 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:45:04 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:45:08 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:45:11 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:45:16 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:45:19 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:45:25 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:45:34 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:45:48 [emerg] 1#1: host not found in upstream "shopping-web:8081" in /etc/nginx/conf.d/mysite_nginx.conf:3
+2023/12/25 03:46:58 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:47:01 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:47:05 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:47:09 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:47:13 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:47:18 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:47:23 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:47:31 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:49:17 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:49:20 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:49:24 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:49:28 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:49:31 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:49:35 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:56:29 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:56:31 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:56:34 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:56:38 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:56:41 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:56:45 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:56:50 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:56:58 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:57:13 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:57:40 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:59:18 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:59:22 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:59:24 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:59:28 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:59:31 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 03:59:34 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 04:01:26 [notice] 1#1: using the "epoll" event method
+2023/12/25 04:01:26 [notice] 1#1: nginx/1.25.3
+2023/12/25 04:01:26 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/25 04:01:26 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/25 04:01:26 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/25 04:01:26 [notice] 1#1: start worker processes
+2023/12/25 04:01:26 [notice] 1#1: start worker process 21
+2023/12/25 04:01:26 [notice] 1#1: start worker process 22
+2023/12/25 04:01:26 [notice] 1#1: start worker process 23
+2023/12/25 04:01:26 [notice] 1#1: start worker process 24
+2023/12/25 05:36:30 [error] 22#22: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.28.0.1, server: ${app_host_ip}, request: "GET / HTTP/1.1", upstream: "http://172.28.0.5:8081/", host: "127.0.0.1:8082"
+2023/12/25 05:36:30 [error] 22#22: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.28.0.1, server: ${app_host_ip}, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.28.0.5:8081/favicon.ico", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 05:36:36 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/25 05:36:36 [notice] 21#21: gracefully shutting down
+2023/12/25 05:36:36 [notice] 23#23: gracefully shutting down
+2023/12/25 05:36:36 [notice] 22#22: gracefully shutting down
+2023/12/25 05:36:36 [notice] 24#24: gracefully shutting down
+2023/12/25 05:36:36 [notice] 23#23: exiting
+2023/12/25 05:36:36 [notice] 24#24: exiting
+2023/12/25 05:36:36 [notice] 22#22: exiting
+2023/12/25 05:36:36 [notice] 22#22: exit
+2023/12/25 05:36:36 [notice] 23#23: exit
+2023/12/25 05:36:36 [notice] 24#24: exit
+2023/12/25 05:36:36 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2023/12/25 05:36:36 [notice] 1#1: worker process 22 exited with code 0
+2023/12/25 05:36:36 [notice] 1#1: worker process 23 exited with code 0
+2023/12/25 05:36:36 [notice] 1#1: worker process 24 exited with code 0
+2023/12/25 05:36:36 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 05:36:36 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2023/12/25 05:37:41 [notice] 1#1: using the "epoll" event method
+2023/12/25 05:37:41 [notice] 1#1: nginx/1.25.3
+2023/12/25 05:37:41 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/25 05:37:41 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/25 05:37:41 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/25 05:37:41 [notice] 1#1: start worker processes
+2023/12/25 05:37:41 [notice] 1#1: start worker process 20
+2023/12/25 05:37:41 [notice] 1#1: start worker process 21
+2023/12/25 05:37:41 [notice] 1#1: start worker process 22
+2023/12/25 05:37:41 [notice] 1#1: start worker process 23
+2023/12/25 05:40:26 [error] 20#20: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.28.0.1, server: ${app_host_ip}, request: "GET / HTTP/1.1", upstream: "http://172.28.0.5:8081/", host: "127.0.0.1:8082"
+2023/12/25 05:40:26 [error] 20#20: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.28.0.1, server: ${app_host_ip}, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.28.0.5:8081/favicon.ico", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 05:41:27 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/25 05:41:27 [notice] 22#22: gracefully shutting down
+2023/12/25 05:41:27 [notice] 21#21: gracefully shutting down
+2023/12/25 05:41:27 [notice] 23#23: gracefully shutting down
+2023/12/25 05:41:27 [notice] 20#20: gracefully shutting down
+2023/12/25 05:41:27 [notice] 22#22: exiting
+2023/12/25 05:41:27 [notice] 21#21: exiting
+2023/12/25 05:41:27 [notice] 23#23: exiting
+2023/12/25 05:41:27 [notice] 23#23: exit
+2023/12/25 05:41:27 [notice] 20#20: exiting
+2023/12/25 05:41:27 [notice] 22#22: exit
+2023/12/25 05:41:27 [notice] 21#21: exit
+2023/12/25 05:41:27 [notice] 20#20: exit
+2023/12/25 05:41:27 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2023/12/25 05:41:27 [notice] 1#1: worker process 20 exited with code 0
+2023/12/25 05:41:27 [notice] 1#1: worker process 21 exited with code 0
+2023/12/25 05:41:27 [notice] 1#1: worker process 22 exited with code 0
+2023/12/25 05:41:27 [notice] 1#1: worker process 23 exited with code 0
+2023/12/25 05:41:27 [notice] 1#1: exit
+2023/12/25 05:42:13 [notice] 1#1: using the "epoll" event method
+2023/12/25 05:42:13 [notice] 1#1: nginx/1.25.3
+2023/12/25 05:42:13 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/25 05:42:13 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/25 05:42:13 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/25 05:42:13 [notice] 1#1: start worker processes
+2023/12/25 05:42:13 [notice] 1#1: start worker process 19
+2023/12/25 05:42:13 [notice] 1#1: start worker process 20
+2023/12/25 05:42:13 [notice] 1#1: start worker process 21
+2023/12/25 05:42:13 [notice] 1#1: start worker process 22
+2023/12/25 05:42:24 [error] 20#20: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.28.0.1, server: ${app_host_ip}, request: "GET / HTTP/1.1", upstream: "http://172.28.0.5:8081/", host: "127.0.0.1:8082"
+2023/12/25 05:42:24 [error] 20#20: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.28.0.1, server: ${app_host_ip}, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.28.0.5:8081/favicon.ico", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 05:42:26 [error] 20#20: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.28.0.1, server: ${app_host_ip}, request: "GET / HTTP/1.1", upstream: "http://172.28.0.5:8081/", host: "127.0.0.1:8082"
+2023/12/25 05:42:26 [error] 20#20: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.28.0.1, server: ${app_host_ip}, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.28.0.5:8081/favicon.ico", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 05:43:14 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/25 05:43:14 [notice] 19#19: gracefully shutting down
+2023/12/25 05:43:14 [notice] 22#22: gracefully shutting down
+2023/12/25 05:43:14 [notice] 22#22: exiting
+2023/12/25 05:43:14 [notice] 20#20: gracefully shutting down
+2023/12/25 05:43:14 [notice] 21#21: gracefully shutting down
+2023/12/25 05:43:14 [notice] 22#22: exit
+2023/12/25 05:43:14 [notice] 20#20: exiting
+2023/12/25 05:43:14 [notice] 21#21: exiting
+2023/12/25 05:43:14 [notice] 21#21: exit
+2023/12/25 05:43:14 [notice] 20#20: exit
+2023/12/25 05:43:14 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/12/25 05:43:14 [notice] 1#1: worker process 22 exited with code 0
+2023/12/25 05:43:14 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 05:43:14 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2023/12/25 05:43:14 [notice] 1#1: worker process 20 exited with code 0
+2023/12/25 05:43:14 [notice] 1#1: worker process 21 exited with code 0
+2023/12/25 05:43:14 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 05:43:24 [notice] 19#19: exiting
+2023/12/25 05:43:24 [notice] 19#19: exit
+2023/12/25 05:43:24 [notice] 1#1: signal 17 (SIGCHLD) received from 19
+2023/12/25 05:43:24 [notice] 1#1: worker process 19 exited with code 0
+2023/12/25 05:43:24 [notice] 1#1: exit
+2023/12/25 05:44:58 [notice] 1#1: using the "epoll" event method
+2023/12/25 05:44:58 [notice] 1#1: nginx/1.25.3
+2023/12/25 05:44:58 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/25 05:44:58 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/25 05:44:58 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/25 05:44:58 [notice] 1#1: start worker processes
+2023/12/25 05:44:58 [notice] 1#1: start worker process 20
+2023/12/25 05:44:58 [notice] 1#1: start worker process 21
+2023/12/25 05:44:58 [notice] 1#1: start worker process 22
+2023/12/25 05:44:58 [notice] 1#1: start worker process 23
+2023/12/25 05:46:11 [error] 20#20: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.29.0.1, server: ${app_host_ip}, request: "GET / HTTP/1.1", upstream: "http://172.29.0.5:8081/", host: "127.0.0.1:8082"
+2023/12/25 05:46:11 [error] 20#20: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.29.0.1, server: ${app_host_ip}, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.29.0.5:8081/favicon.ico", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 05:46:49 [error] 20#20: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.29.0.1, server: ${app_host_ip}, request: "GET / HTTP/1.1", upstream: "http://172.29.0.5:8081/", host: "127.0.0.1:8082"
+2023/12/25 05:46:49 [error] 20#20: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.29.0.1, server: ${app_host_ip}, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.29.0.5:8081/favicon.ico", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 05:48:14 [error] 22#22: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.29.0.1, server: ${app_host_ip}, request: "GET / HTTP/1.1", upstream: "http://172.29.0.5:8081/", host: "127.0.0.1:8082"
+2023/12/25 05:48:14 [error] 22#22: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.29.0.1, server: ${app_host_ip}, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.29.0.5:8081/favicon.ico", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 05:48:14 [error] 22#22: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.29.0.1, server: ${app_host_ip}, request: "GET / HTTP/1.1", upstream: "http://172.29.0.5:8081/", host: "127.0.0.1:8082"
+2023/12/25 05:48:14 [error] 22#22: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.29.0.1, server: ${app_host_ip}, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.29.0.5:8081/favicon.ico", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 05:48:15 [error] 22#22: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.29.0.1, server: ${app_host_ip}, request: "GET / HTTP/1.1", upstream: "http://172.29.0.5:8081/", host: "127.0.0.1:8082"
+2023/12/25 05:48:15 [error] 22#22: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.29.0.1, server: ${app_host_ip}, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.29.0.5:8081/favicon.ico", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 05:48:15 [error] 22#22: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.29.0.1, server: ${app_host_ip}, request: "GET / HTTP/1.1", upstream: "http://172.29.0.5:8081/", host: "127.0.0.1:8082"
+2023/12/25 05:48:15 [error] 22#22: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.29.0.1, server: ${app_host_ip}, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.29.0.5:8081/favicon.ico", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 05:48:15 [error] 22#22: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.29.0.1, server: ${app_host_ip}, request: "GET / HTTP/1.1", upstream: "http://172.29.0.5:8081/", host: "127.0.0.1:8082"
+2023/12/25 05:48:15 [error] 22#22: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.29.0.1, server: ${app_host_ip}, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.29.0.5:8081/favicon.ico", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 05:48:15 [error] 22#22: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.29.0.1, server: ${app_host_ip}, request: "GET / HTTP/1.1", upstream: "http://172.29.0.5:8081/", host: "127.0.0.1:8082"
+2023/12/25 05:48:15 [error] 22#22: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.29.0.1, server: ${app_host_ip}, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.29.0.5:8081/favicon.ico", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 05:50:05 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/25 05:50:05 [notice] 20#20: gracefully shutting down
+2023/12/25 05:50:05 [notice] 20#20: exiting
+2023/12/25 05:50:05 [notice] 22#22: gracefully shutting down
+2023/12/25 05:50:05 [notice] 21#21: gracefully shutting down
+2023/12/25 05:50:05 [notice] 21#21: exiting
+2023/12/25 05:50:05 [notice] 23#23: gracefully shutting down
+2023/12/25 05:50:05 [notice] 20#20: exit
+2023/12/25 05:50:05 [notice] 22#22: exiting
+2023/12/25 05:50:05 [notice] 21#21: exit
+2023/12/25 05:50:05 [notice] 23#23: exiting
+2023/12/25 05:50:05 [notice] 22#22: exit
+2023/12/25 05:50:05 [notice] 23#23: exit
+2023/12/25 05:50:05 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2023/12/25 05:50:05 [notice] 1#1: worker process 20 exited with code 0
+2023/12/25 05:50:05 [notice] 1#1: worker process 22 exited with code 0
+2023/12/25 05:50:05 [notice] 1#1: worker process 23 exited with code 0
+2023/12/25 05:50:05 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 05:50:05 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/12/25 05:50:05 [notice] 1#1: worker process 21 exited with code 0
+2023/12/25 05:50:05 [notice] 1#1: exit
+2023/12/25 05:50:07 [notice] 1#1: using the "epoll" event method
+2023/12/25 05:50:07 [notice] 1#1: nginx/1.25.3
+2023/12/25 05:50:07 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/25 05:50:07 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/25 05:50:07 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/25 05:50:07 [notice] 1#1: start worker processes
+2023/12/25 05:50:07 [notice] 1#1: start worker process 20
+2023/12/25 05:50:07 [notice] 1#1: start worker process 21
+2023/12/25 05:50:07 [notice] 1#1: start worker process 22
+2023/12/25 05:50:07 [notice] 1#1: start worker process 23
+2023/12/25 05:50:43 [error] 20#20: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.29.0.1, server: ${app_host_ip}, request: "GET / HTTP/1.1", upstream: "http://172.29.0.5:8081/", host: "127.0.0.1:8082"
+2023/12/25 05:50:43 [error] 20#20: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.29.0.1, server: ${app_host_ip}, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.29.0.5:8081/favicon.ico", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 05:50:53 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/25 05:50:53 [notice] 20#20: gracefully shutting down
+2023/12/25 05:50:53 [notice] 20#20: exiting
+2023/12/25 05:50:53 [notice] 21#21: gracefully shutting down
+2023/12/25 05:50:53 [notice] 22#22: gracefully shutting down
+2023/12/25 05:50:53 [notice] 22#22: exiting
+2023/12/25 05:50:53 [notice] 22#22: exit
+2023/12/25 05:50:53 [notice] 23#23: gracefully shutting down
+2023/12/25 05:50:53 [notice] 23#23: exiting
+2023/12/25 05:50:53 [notice] 20#20: exit
+2023/12/25 05:50:53 [notice] 23#23: exit
+2023/12/25 05:50:53 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2023/12/25 05:50:53 [notice] 1#1: worker process 20 exited with code 0
+2023/12/25 05:50:53 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 05:50:53 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2023/12/25 05:50:53 [notice] 1#1: worker process 22 exited with code 0
+2023/12/25 05:50:53 [notice] 1#1: worker process 23 exited with code 0
+2023/12/25 05:50:53 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 05:53:22 [notice] 1#1: using the "epoll" event method
+2023/12/25 05:53:22 [notice] 1#1: nginx/1.25.3
+2023/12/25 05:53:22 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/25 05:53:22 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/25 05:53:22 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/25 05:53:22 [notice] 1#1: start worker processes
+2023/12/25 05:53:22 [notice] 1#1: start worker process 20
+2023/12/25 05:53:22 [notice] 1#1: start worker process 21
+2023/12/25 05:53:22 [notice] 1#1: start worker process 22
+2023/12/25 05:53:22 [notice] 1#1: start worker process 23
+2023/12/25 05:56:59 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/25 05:56:59 [notice] 20#20: gracefully shutting down
+2023/12/25 05:56:59 [notice] 22#22: gracefully shutting down
+2023/12/25 05:56:59 [notice] 21#21: gracefully shutting down
+2023/12/25 05:56:59 [notice] 21#21: exiting
+2023/12/25 05:56:59 [notice] 23#23: gracefully shutting down
+2023/12/25 05:56:59 [notice] 20#20: exiting
+2023/12/25 05:56:59 [notice] 22#22: exiting
+2023/12/25 05:56:59 [notice] 21#21: exit
+2023/12/25 05:56:59 [notice] 23#23: exiting
+2023/12/25 05:56:59 [notice] 23#23: exit
+2023/12/25 05:56:59 [notice] 20#20: exit
+2023/12/25 05:56:59 [notice] 22#22: exit
+2023/12/25 05:57:00 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2023/12/25 05:57:00 [notice] 1#1: worker process 20 exited with code 0
+2023/12/25 05:57:00 [notice] 1#1: worker process 21 exited with code 0
+2023/12/25 05:57:00 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 05:57:00 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/12/25 05:57:00 [notice] 1#1: worker process 22 exited with code 0
+2023/12/25 05:57:00 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 05:57:00 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2023/12/25 05:57:00 [notice] 1#1: worker process 23 exited with code 0
+2023/12/25 05:57:00 [notice] 1#1: exit
+2023/12/25 05:58:32 [notice] 1#1: using the "epoll" event method
+2023/12/25 05:58:32 [notice] 1#1: nginx/1.25.3
+2023/12/25 05:58:32 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/25 05:58:32 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/25 05:58:32 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/25 05:58:32 [notice] 1#1: start worker processes
+2023/12/25 05:58:32 [notice] 1#1: start worker process 29
+2023/12/25 05:58:32 [notice] 1#1: start worker process 30
+2023/12/25 05:58:32 [notice] 1#1: start worker process 31
+2023/12/25 05:58:32 [notice] 1#1: start worker process 32
+2023/12/25 06:00:47 [error] 31#31: *3 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.31.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 06:05:41 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/25 06:05:41 [notice] 29#29: gracefully shutting down
+2023/12/25 06:05:41 [notice] 31#31: gracefully shutting down
+2023/12/25 06:05:41 [notice] 30#30: gracefully shutting down
+2023/12/25 06:05:41 [notice] 32#32: gracefully shutting down
+2023/12/25 06:05:41 [notice] 29#29: exiting
+2023/12/25 06:05:41 [notice] 31#31: exiting
+2023/12/25 06:05:41 [notice] 30#30: exiting
+2023/12/25 06:05:41 [notice] 32#32: exiting
+2023/12/25 06:05:41 [notice] 29#29: exit
+2023/12/25 06:05:41 [notice] 31#31: exit
+2023/12/25 06:05:41 [notice] 30#30: exit
+2023/12/25 06:05:41 [notice] 32#32: exit
+2023/12/25 06:05:41 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/12/25 06:05:41 [notice] 1#1: worker process 29 exited with code 0
+2023/12/25 06:05:41 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 06:05:41 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2023/12/25 06:05:41 [notice] 1#1: worker process 31 exited with code 0
+2023/12/25 06:05:41 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 06:05:41 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2023/12/25 06:05:41 [notice] 1#1: worker process 30 exited with code 0
+2023/12/25 06:05:41 [notice] 1#1: worker process 32 exited with code 0
+2023/12/25 06:05:41 [notice] 1#1: exit
+2023/12/25 06:07:54 [notice] 1#1: using the "epoll" event method
+2023/12/25 06:07:54 [notice] 1#1: nginx/1.25.3
+2023/12/25 06:07:54 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/25 06:07:54 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/25 06:07:54 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/25 06:07:54 [notice] 1#1: start worker processes
+2023/12/25 06:07:54 [notice] 1#1: start worker process 28
+2023/12/25 06:07:54 [notice] 1#1: start worker process 29
+2023/12/25 06:07:54 [notice] 1#1: start worker process 30
+2023/12/25 06:07:54 [notice] 1#1: start worker process 31
+2023/12/25 06:08:10 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/25 06:08:10 [notice] 30#30: gracefully shutting down
+2023/12/25 06:08:10 [notice] 28#28: gracefully shutting down
+2023/12/25 06:08:10 [notice] 29#29: gracefully shutting down
+2023/12/25 06:08:10 [notice] 31#31: gracefully shutting down
+2023/12/25 06:08:10 [notice] 30#30: exiting
+2023/12/25 06:08:10 [notice] 28#28: exiting
+2023/12/25 06:08:10 [notice] 29#29: exiting
+2023/12/25 06:08:10 [notice] 31#31: exiting
+2023/12/25 06:08:10 [notice] 30#30: exit
+2023/12/25 06:08:10 [notice] 28#28: exit
+2023/12/25 06:08:10 [notice] 29#29: exit
+2023/12/25 06:08:10 [notice] 31#31: exit
+2023/12/25 06:08:10 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2023/12/25 06:08:10 [notice] 1#1: worker process 28 exited with code 0
+2023/12/25 06:08:10 [notice] 1#1: worker process 29 exited with code 0
+2023/12/25 06:08:10 [notice] 1#1: worker process 30 exited with code 0
+2023/12/25 06:08:10 [notice] 1#1: worker process 31 exited with code 0
+2023/12/25 06:08:10 [notice] 1#1: exit
+2023/12/25 06:12:31 [notice] 1#1: using the "epoll" event method
+2023/12/25 06:12:31 [notice] 1#1: nginx/1.25.3
+2023/12/25 06:12:31 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/25 06:12:31 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/25 06:12:31 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/25 06:12:31 [notice] 1#1: start worker processes
+2023/12/25 06:12:31 [notice] 1#1: start worker process 29
+2023/12/25 06:12:31 [notice] 1#1: start worker process 30
+2023/12/25 06:12:31 [notice] 1#1: start worker process 31
+2023/12/25 06:12:31 [notice] 1#1: start worker process 32
+2023/12/25 06:12:46 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/25 06:12:46 [notice] 30#30: gracefully shutting down
+2023/12/25 06:12:46 [notice] 30#30: exiting
+2023/12/25 06:12:46 [notice] 31#31: gracefully shutting down
+2023/12/25 06:12:46 [notice] 31#31: exiting
+2023/12/25 06:12:46 [notice] 29#29: gracefully shutting down
+2023/12/25 06:12:46 [notice] 32#32: gracefully shutting down
+2023/12/25 06:12:46 [notice] 30#30: exit
+2023/12/25 06:12:46 [notice] 31#31: exit
+2023/12/25 06:12:46 [notice] 29#29: exiting
+2023/12/25 06:12:46 [notice] 29#29: exit
+2023/12/25 06:12:46 [notice] 32#32: exiting
+2023/12/25 06:12:46 [notice] 32#32: exit
+2023/12/25 06:12:46 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2023/12/25 06:12:46 [notice] 1#1: worker process 31 exited with code 0
+2023/12/25 06:12:46 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 06:12:46 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2023/12/25 06:12:46 [notice] 1#1: worker process 29 exited with code 0
+2023/12/25 06:12:46 [notice] 1#1: worker process 30 exited with code 0
+2023/12/25 06:12:46 [notice] 1#1: worker process 32 exited with code 0
+2023/12/25 06:12:46 [notice] 1#1: exit
+2023/12/25 06:14:17 [notice] 1#1: using the "epoll" event method
+2023/12/25 06:14:17 [notice] 1#1: nginx/1.25.3
+2023/12/25 06:14:17 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/25 06:14:17 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/25 06:14:17 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/25 06:14:17 [notice] 1#1: start worker processes
+2023/12/25 06:14:17 [notice] 1#1: start worker process 29
+2023/12/25 06:14:17 [notice] 1#1: start worker process 30
+2023/12/25 06:14:17 [notice] 1#1: start worker process 31
+2023/12/25 06:14:17 [notice] 1#1: start worker process 32
+2023/12/25 06:15:40 [notice] 1#1: using the "epoll" event method
+2023/12/25 06:15:40 [notice] 1#1: nginx/1.25.3
+2023/12/25 06:15:40 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/25 06:15:40 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/25 06:15:40 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/25 06:15:40 [notice] 1#1: start worker processes
+2023/12/25 06:15:40 [notice] 1#1: start worker process 29
+2023/12/25 06:15:40 [notice] 1#1: start worker process 30
+2023/12/25 06:15:40 [notice] 1#1: start worker process 31
+2023/12/25 06:15:40 [notice] 1#1: start worker process 32
+2023/12/25 06:26:59 [error] 29#29: *7 open() "/home/plant_django/static/static/favicon.ico" failed (2: No such file or directory), client: 192.168.16.1, server: 127.0.0.1, request: "GET /static/favicon.ico HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 06:34:03 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/25 06:34:03 [notice] 29#29: gracefully shutting down
+2023/12/25 06:34:03 [notice] 30#30: gracefully shutting down
+2023/12/25 06:34:03 [notice] 32#32: gracefully shutting down
+2023/12/25 06:34:03 [notice] 31#31: gracefully shutting down
+2023/12/25 06:34:03 [notice] 29#29: exiting
+2023/12/25 06:34:03 [notice] 30#30: exiting
+2023/12/25 06:34:03 [notice] 32#32: exiting
+2023/12/25 06:34:03 [notice] 31#31: exiting
+2023/12/25 06:34:03 [notice] 29#29: exit
+2023/12/25 06:34:03 [notice] 30#30: exit
+2023/12/25 06:34:03 [notice] 32#32: exit
+2023/12/25 06:34:03 [notice] 31#31: exit
+2023/12/25 06:34:03 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2023/12/25 06:34:03 [notice] 1#1: worker process 30 exited with code 0
+2023/12/25 06:34:03 [notice] 1#1: worker process 31 exited with code 0
+2023/12/25 06:34:03 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 06:34:03 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/12/25 06:34:03 [notice] 1#1: worker process 29 exited with code 0
+2023/12/25 06:34:03 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 06:34:03 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2023/12/25 06:34:03 [notice] 1#1: worker process 32 exited with code 0
+2023/12/25 06:34:03 [notice] 1#1: exit
+2023/12/25 06:35:23 [notice] 1#1: using the "epoll" event method
+2023/12/25 06:35:23 [notice] 1#1: nginx/1.25.3
+2023/12/25 06:35:23 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/25 06:35:23 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/25 06:35:23 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/25 06:35:23 [notice] 1#1: start worker processes
+2023/12/25 06:35:23 [notice] 1#1: start worker process 29
+2023/12/25 06:35:23 [notice] 1#1: start worker process 30
+2023/12/25 06:35:23 [notice] 1#1: start worker process 31
+2023/12/25 06:35:23 [notice] 1#1: start worker process 32
+2023/12/25 06:35:38 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/25 06:35:38 [notice] 30#30: gracefully shutting down
+2023/12/25 06:35:38 [notice] 30#30: exiting
+2023/12/25 06:35:38 [notice] 32#32: gracefully shutting down
+2023/12/25 06:35:38 [notice] 29#29: gracefully shutting down
+2023/12/25 06:35:38 [notice] 31#31: gracefully shutting down
+2023/12/25 06:35:38 [notice] 30#30: exit
+2023/12/25 06:35:38 [notice] 32#32: exiting
+2023/12/25 06:35:38 [notice] 32#32: exit
+2023/12/25 06:35:38 [notice] 29#29: exiting
+2023/12/25 06:35:38 [notice] 31#31: exiting
+2023/12/25 06:35:38 [notice] 29#29: exit
+2023/12/25 06:35:38 [notice] 31#31: exit
+2023/12/25 06:35:38 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2023/12/25 06:35:38 [notice] 1#1: worker process 29 exited with code 0
+2023/12/25 06:35:38 [notice] 1#1: worker process 30 exited with code 0
+2023/12/25 06:35:38 [notice] 1#1: worker process 31 exited with code 0
+2023/12/25 06:35:38 [notice] 1#1: worker process 32 exited with code 0
+2023/12/25 06:35:38 [notice] 1#1: exit
+2023/12/25 06:36:37 [notice] 1#1: using the "epoll" event method
+2023/12/25 06:36:37 [notice] 1#1: nginx/1.25.3
+2023/12/25 06:36:37 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/25 06:36:37 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/25 06:36:37 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/25 06:36:37 [notice] 1#1: start worker processes
+2023/12/25 06:36:37 [notice] 1#1: start worker process 29
+2023/12/25 06:36:37 [notice] 1#1: start worker process 30
+2023/12/25 06:36:37 [notice] 1#1: start worker process 31
+2023/12/25 06:36:37 [notice] 1#1: start worker process 32
+2023/12/25 06:36:49 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/25 06:36:49 [notice] 29#29: gracefully shutting down
+2023/12/25 06:36:49 [notice] 30#30: gracefully shutting down
+2023/12/25 06:36:49 [notice] 31#31: gracefully shutting down
+2023/12/25 06:36:49 [notice] 32#32: gracefully shutting down
+2023/12/25 06:36:49 [notice] 29#29: exiting
+2023/12/25 06:36:49 [notice] 30#30: exiting
+2023/12/25 06:36:49 [notice] 31#31: exiting
+2023/12/25 06:36:49 [notice] 32#32: exiting
+2023/12/25 06:36:49 [notice] 29#29: exit
+2023/12/25 06:36:49 [notice] 30#30: exit
+2023/12/25 06:36:49 [notice] 31#31: exit
+2023/12/25 06:36:49 [notice] 32#32: exit
+2023/12/25 06:36:49 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2023/12/25 06:36:49 [notice] 1#1: worker process 31 exited with code 0
+2023/12/25 06:36:49 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 06:36:49 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2023/12/25 06:36:49 [notice] 1#1: worker process 29 exited with code 0
+2023/12/25 06:36:49 [notice] 1#1: worker process 30 exited with code 0
+2023/12/25 06:36:49 [notice] 1#1: worker process 32 exited with code 0
+2023/12/25 06:36:49 [notice] 1#1: exit
+2023/12/25 06:48:12 [notice] 1#1: using the "epoll" event method
+2023/12/25 06:48:12 [notice] 1#1: nginx/1.25.3
+2023/12/25 06:48:12 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/25 06:48:12 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/25 06:48:12 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/25 06:48:12 [notice] 1#1: start worker processes
+2023/12/25 06:48:12 [notice] 1#1: start worker process 30
+2023/12/25 06:48:12 [notice] 1#1: start worker process 31
+2023/12/25 06:48:12 [notice] 1#1: start worker process 32
+2023/12/25 06:48:12 [notice] 1#1: start worker process 33
+2023/12/25 06:53:20 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/25 06:53:20 [notice] 30#30: gracefully shutting down
+2023/12/25 06:53:20 [notice] 31#31: gracefully shutting down
+2023/12/25 06:53:20 [notice] 32#32: gracefully shutting down
+2023/12/25 06:53:20 [notice] 33#33: gracefully shutting down
+2023/12/25 06:53:20 [notice] 30#30: exiting
+2023/12/25 06:53:20 [notice] 31#31: exiting
+2023/12/25 06:53:20 [notice] 32#32: exiting
+2023/12/25 06:53:20 [notice] 33#33: exiting
+2023/12/25 06:53:20 [notice] 30#30: exit
+2023/12/25 06:53:20 [notice] 31#31: exit
+2023/12/25 06:53:20 [notice] 32#32: exit
+2023/12/25 06:53:20 [notice] 33#33: exit
+2023/12/25 06:53:20 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2023/12/25 06:53:20 [notice] 1#1: worker process 30 exited with code 0
+2023/12/25 06:53:20 [notice] 1#1: worker process 32 exited with code 0
+2023/12/25 06:53:20 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 06:53:20 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2023/12/25 06:53:20 [notice] 1#1: worker process 31 exited with code 0
+2023/12/25 06:53:20 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 06:53:20 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2023/12/25 06:53:20 [notice] 1#1: worker process 33 exited with code 0
+2023/12/25 06:53:20 [notice] 1#1: exit
+2023/12/25 07:37:48 [notice] 1#1: using the "epoll" event method
+2023/12/25 07:37:48 [notice] 1#1: nginx/1.25.3
+2023/12/25 07:37:48 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/25 07:37:48 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/25 07:37:48 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/25 07:37:48 [notice] 1#1: start worker processes
+2023/12/25 07:37:48 [notice] 1#1: start worker process 29
+2023/12/25 07:37:48 [notice] 1#1: start worker process 30
+2023/12/25 07:37:48 [notice] 1#1: start worker process 31
+2023/12/25 07:37:48 [notice] 1#1: start worker process 32
+2023/12/25 07:43:38 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/25 07:43:38 [notice] 30#30: gracefully shutting down
+2023/12/25 07:43:38 [notice] 30#30: exiting
+2023/12/25 07:43:38 [notice] 29#29: gracefully shutting down
+2023/12/25 07:43:38 [notice] 32#32: gracefully shutting down
+2023/12/25 07:43:38 [notice] 32#32: exiting
+2023/12/25 07:43:38 [notice] 31#31: gracefully shutting down
+2023/12/25 07:43:38 [notice] 30#30: exit
+2023/12/25 07:43:38 [notice] 29#29: exiting
+2023/12/25 07:43:38 [notice] 32#32: exit
+2023/12/25 07:43:38 [notice] 31#31: exiting
+2023/12/25 07:43:38 [notice] 29#29: exit
+2023/12/25 07:43:38 [notice] 31#31: exit
+2023/12/25 07:43:39 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2023/12/25 07:43:39 [notice] 1#1: worker process 31 exited with code 0
+2023/12/25 07:43:39 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 07:43:39 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/12/25 07:43:39 [notice] 1#1: worker process 29 exited with code 0
+2023/12/25 07:43:39 [notice] 1#1: worker process 30 exited with code 0
+2023/12/25 07:43:39 [notice] 1#1: worker process 32 exited with code 0
+2023/12/25 07:43:39 [notice] 1#1: exit
+2023/12/25 07:45:20 [notice] 1#1: using the "epoll" event method
+2023/12/25 07:45:20 [notice] 1#1: nginx/1.25.3
+2023/12/25 07:45:20 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/25 07:45:20 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/25 07:45:20 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/25 07:45:20 [notice] 1#1: start worker processes
+2023/12/25 07:45:20 [notice] 1#1: start worker process 29
+2023/12/25 07:45:20 [notice] 1#1: start worker process 30
+2023/12/25 07:45:20 [notice] 1#1: start worker process 31
+2023/12/25 07:45:20 [notice] 1#1: start worker process 32
+2023/12/25 07:46:43 [error] 29#29: *1 open() "/home/plant_django/static/static/Logo_black.png" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/Logo_black.png HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 07:46:43 [error] 29#29: *1 open() "/home/plant_django/static/static/Logo_white.png" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/Logo_white.png HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 07:46:44 [error] 29#29: *1 open() "/home/plant_django/static/static/background1.jpg" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/background1.jpg HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 07:46:49 [error] 29#29: *1 open() "/home/plant_django/static/static/Logo_black.png" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/Logo_black.png HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 07:46:49 [error] 30#30: *2 open() "/home/plant_django/static/static/Logo_white.png" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/Logo_white.png HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 07:46:49 [error] 30#30: *2 open() "/home/plant_django/static/static/background1.jpg" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/background1.jpg HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/25 07:46:58 [error] 30#30: *2 open() "/home/plant_django/static/static/admin/css/base.css" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/css/base.css HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:46:58 [error] 29#29: *1 open() "/home/plant_django/static/static/admin/css/dark_mode.css" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/css/dark_mode.css HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:46:58 [error] 30#30: *2 open() "/home/plant_django/static/static/admin/css/responsive.css" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/css/responsive.css HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:46:58 [error] 32#32: *11 open() "/home/plant_django/static/static/admin/css/login.css" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/css/login.css HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:46:58 [error] 31#31: *10 open() "/home/plant_django/static/static/admin/css/nav_sidebar.css" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/css/nav_sidebar.css HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:46:58 [error] 29#29: *1 open() "/home/plant_django/static/static/admin/js/nav_sidebar.js" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/js/nav_sidebar.js HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:46:58 [error] 29#29: *1 open() "/home/plant_django/static/static/favicon.ico" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/favicon.ico HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:47:38 [error] 29#29: *1 open() "/home/plant_django/static/static/admin/css/base.css" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/css/base.css HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:47:38 [error] 31#31: *10 open() "/home/plant_django/static/static/admin/css/dark_mode.css" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/css/dark_mode.css HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:47:38 [error] 32#32: *11 open() "/home/plant_django/static/static/admin/css/nav_sidebar.css" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/css/nav_sidebar.css HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:47:38 [error] 30#30: *2 open() "/home/plant_django/static/static/admin/css/login.css" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/css/login.css HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:47:38 [error] 29#29: *12 open() "/home/plant_django/static/static/admin/css/responsive.css" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/css/responsive.css HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:47:38 [error] 29#29: *13 open() "/home/plant_django/static/static/admin/js/nav_sidebar.js" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/js/nav_sidebar.js HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:47:42 [error] 29#29: *13 open() "/home/plant_django/static/static/admin/css/base.css" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/css/base.css HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:47:42 [error] 30#30: *2 open() "/home/plant_django/static/static/admin/css/nav_sidebar.css" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/css/nav_sidebar.css HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:47:42 [error] 32#32: *11 open() "/home/plant_django/static/static/admin/css/login.css" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/css/login.css HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:47:42 [error] 31#31: *10 open() "/home/plant_django/static/static/admin/css/responsive.css" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/css/responsive.css HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:47:42 [error] 29#29: *12 open() "/home/plant_django/static/static/admin/css/dark_mode.css" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/css/dark_mode.css HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:47:52 [error] 29#29: *12 open() "/home/plant_django/static/static/admin/css/base.css" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/css/base.css HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:47:52 [error] 31#31: *10 open() "/home/plant_django/static/static/admin/css/dark_mode.css" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/css/dark_mode.css HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:47:52 [error] 32#32: *11 open() "/home/plant_django/static/static/admin/css/nav_sidebar.css" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/css/nav_sidebar.css HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:47:52 [error] 30#30: *2 open() "/home/plant_django/static/static/admin/css/login.css" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/css/login.css HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:47:52 [error] 29#29: *13 open() "/home/plant_django/static/static/admin/css/responsive.css" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/css/responsive.css HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:47:52 [error] 29#29: *12 open() "/home/plant_django/static/static/admin/js/nav_sidebar.js" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/admin/js/nav_sidebar.js HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:47:52 [error] 29#29: *12 open() "/home/plant_django/static/static/favicon.ico" failed (2: No such file or directory), client: 172.23.0.1, server: 127.0.0.1, request: "GET /static/favicon.ico HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/25 07:53:37 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/25 07:53:37 [notice] 29#29: gracefully shutting down
+2023/12/25 07:53:37 [notice] 31#31: gracefully shutting down
+2023/12/25 07:53:37 [notice] 31#31: exiting
+2023/12/25 07:53:37 [notice] 30#30: gracefully shutting down
+2023/12/25 07:53:37 [notice] 32#32: gracefully shutting down
+2023/12/25 07:53:37 [notice] 29#29: exiting
+2023/12/25 07:53:37 [notice] 31#31: exit
+2023/12/25 07:53:37 [notice] 30#30: exiting
+2023/12/25 07:53:37 [notice] 32#32: exiting
+2023/12/25 07:53:37 [notice] 29#29: exit
+2023/12/25 07:53:37 [notice] 30#30: exit
+2023/12/25 07:53:37 [notice] 32#32: exit
+2023/12/25 07:53:37 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2023/12/25 07:53:37 [notice] 1#1: worker process 30 exited with code 0
+2023/12/25 07:53:37 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 07:53:37 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2023/12/25 07:53:37 [notice] 1#1: worker process 32 exited with code 0
+2023/12/25 07:53:37 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 07:53:37 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2023/12/25 07:53:37 [notice] 1#1: worker process 31 exited with code 0
+2023/12/25 07:53:37 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 07:53:37 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/12/25 07:53:37 [notice] 1#1: worker process 29 exited with code 0
+2023/12/25 07:53:37 [notice] 1#1: exit
+2023/12/25 07:54:42 [notice] 1#1: using the "epoll" event method
+2023/12/25 07:54:42 [notice] 1#1: nginx/1.25.3
+2023/12/25 07:54:42 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/25 07:54:42 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/25 07:54:42 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/25 07:54:42 [notice] 1#1: start worker processes
+2023/12/25 07:54:42 [notice] 1#1: start worker process 29
+2023/12/25 07:54:42 [notice] 1#1: start worker process 30
+2023/12/25 07:54:42 [notice] 1#1: start worker process 31
+2023/12/25 07:54:42 [notice] 1#1: start worker process 32
+2023/12/25 07:55:32 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/25 07:55:32 [notice] 31#31: gracefully shutting down
+2023/12/25 07:55:32 [notice] 31#31: exiting
+2023/12/25 07:55:32 [notice] 29#29: gracefully shutting down
+2023/12/25 07:55:32 [notice] 30#30: gracefully shutting down
+2023/12/25 07:55:32 [notice] 30#30: exiting
+2023/12/25 07:55:32 [notice] 32#32: gracefully shutting down
+2023/12/25 07:55:32 [notice] 31#31: exit
+2023/12/25 07:55:32 [notice] 29#29: exiting
+2023/12/25 07:55:32 [notice] 29#29: exit
+2023/12/25 07:55:32 [notice] 30#30: exit
+2023/12/25 07:55:32 [notice] 32#32: exiting
+2023/12/25 07:55:32 [notice] 32#32: exit
+2023/12/25 07:55:32 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2023/12/25 07:55:32 [notice] 1#1: worker process 30 exited with code 0
+2023/12/25 07:55:32 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 07:55:32 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2023/12/25 07:55:32 [notice] 1#1: worker process 31 exited with code 0
+2023/12/25 07:55:32 [notice] 1#1: worker process 32 exited with code 0
+2023/12/25 07:55:32 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/25 07:55:32 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/12/25 07:55:32 [notice] 1#1: worker process 29 exited with code 0
+2023/12/25 07:55:32 [notice] 1#1: exit
+2023/12/25 07:59:08 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 07:59:12 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 07:59:15 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 07:59:18 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 07:59:21 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 07:59:24 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 08:03:55 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 08:03:58 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 08:04:02 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 08:04:05 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 08:04:08 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 08:05:13 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 08:05:17 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 08:05:20 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 08:05:23 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 08:05:26 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 08:05:29 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 08:05:35 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 08:16:28 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 08:16:32 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 08:16:36 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 08:16:41 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 08:16:45 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 08:16:48 [emerg] 1#1: unknown "media_path" variable
+2023/12/25 08:16:53 [emerg] 1#1: unknown "media_path" variable
+2023/12/26 03:02:07 [emerg] 10#10: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:2
+2023/12/26 03:02:10 [emerg] 9#9: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:2
+2023/12/26 03:02:14 [emerg] 9#9: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:2
+2023/12/26 03:02:16 [emerg] 9#9: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:2
+2023/12/26 03:02:19 [emerg] 10#10: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:2
+2023/12/26 03:02:23 [emerg] 9#9: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:2
+2023/12/26 03:02:28 [emerg] 9#9: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:2
+2023/12/26 03:02:36 [emerg] 9#9: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:2
+2023/12/26 03:22:20 [emerg] 9#9: host not found in upstream "django-app" in /etc/nginx/nginx.conf:25
+2023/12/26 03:22:25 [emerg] 8#8: host not found in upstream "django-app" in /etc/nginx/nginx.conf:25
+2023/12/26 03:22:29 [emerg] 9#9: host not found in upstream "django-app" in /etc/nginx/nginx.conf:25
+2023/12/26 03:22:34 [emerg] 9#9: host not found in upstream "django-app" in /etc/nginx/nginx.conf:25
+2023/12/26 03:22:40 [emerg] 9#9: host not found in upstream "django-app" in /etc/nginx/nginx.conf:25
+2023/12/26 03:22:45 [emerg] 9#9: host not found in upstream "django-app" in /etc/nginx/nginx.conf:25
+2023/12/26 03:26:02 [emerg] 9#9: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:2
+2023/12/26 03:26:05 [emerg] 9#9: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:2
+2023/12/26 03:26:07 [emerg] 9#9: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:2
+2023/12/26 03:26:10 [emerg] 9#9: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:2
+2023/12/26 03:26:14 [emerg] 9#9: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:2
+2023/12/26 03:26:17 [emerg] 9#9: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:2
+2023/12/26 03:26:22 [emerg] 9#9: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:2
+2023/12/26 03:28:51 [notice] 1#1: using the "epoll" event method
+2023/12/26 03:28:51 [notice] 1#1: nginx/1.25.3
+2023/12/26 03:28:51 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/26 03:28:51 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/26 03:28:51 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/26 03:28:51 [notice] 1#1: start worker processes
+2023/12/26 03:28:51 [notice] 1#1: start worker process 29
+2023/12/26 03:28:51 [notice] 1#1: start worker process 30
+2023/12/26 03:28:51 [notice] 1#1: start worker process 31
+2023/12/26 03:28:51 [notice] 1#1: start worker process 32
+2023/12/26 03:29:51 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/26 03:29:51 [notice] 29#29: gracefully shutting down
+2023/12/26 03:29:51 [notice] 30#30: gracefully shutting down
+2023/12/26 03:29:51 [notice] 30#30: exiting
+2023/12/26 03:29:51 [notice] 31#31: gracefully shutting down
+2023/12/26 03:29:51 [notice] 32#32: gracefully shutting down
+2023/12/26 03:29:51 [notice] 29#29: exiting
+2023/12/26 03:29:51 [notice] 30#30: exit
+2023/12/26 03:29:51 [notice] 31#31: exiting
+2023/12/26 03:29:51 [notice] 32#32: exiting
+2023/12/26 03:29:51 [notice] 29#29: exit
+2023/12/26 03:29:51 [notice] 31#31: exit
+2023/12/26 03:29:51 [notice] 32#32: exit
+2023/12/26 03:29:51 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2023/12/26 03:29:51 [notice] 1#1: worker process 29 exited with code 0
+2023/12/26 03:29:51 [notice] 1#1: worker process 30 exited with code 0
+2023/12/26 03:29:51 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/26 03:29:51 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2023/12/26 03:29:51 [notice] 1#1: worker process 32 exited with code 0
+2023/12/26 03:29:51 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/26 03:29:51 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2023/12/26 03:29:51 [notice] 1#1: worker process 31 exited with code 0
+2023/12/26 03:29:51 [notice] 1#1: exit
+2023/12/26 14:35:42 [notice] 1#1: using the "epoll" event method
+2023/12/26 14:35:42 [notice] 1#1: nginx/1.25.3
+2023/12/26 14:35:42 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/26 14:35:42 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/26 14:35:42 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/26 14:35:42 [notice] 1#1: start worker processes
+2023/12/26 14:35:42 [notice] 1#1: start worker process 29
+2023/12/26 14:35:42 [notice] 1#1: start worker process 30
+2023/12/26 14:35:42 [notice] 1#1: start worker process 31
+2023/12/26 14:35:42 [notice] 1#1: start worker process 32
+2023/12/26 14:35:42 [notice] 1#1: start worker process 33
+2023/12/26 14:35:42 [notice] 1#1: start worker process 34
+2023/12/26 14:35:42 [notice] 1#1: start worker process 35
+2023/12/26 14:35:42 [notice] 1#1: start worker process 36
+2023/12/26 14:35:42 [notice] 1#1: start worker process 37
+2023/12/26 14:35:42 [notice] 1#1: start worker process 38
+2023/12/26 14:35:42 [notice] 1#1: start worker process 39
+2023/12/26 14:35:42 [notice] 1#1: start worker process 40
+2023/12/26 14:35:42 [notice] 1#1: start worker process 41
+2023/12/26 14:35:42 [notice] 1#1: start worker process 42
+2023/12/26 14:35:42 [notice] 1#1: start worker process 43
+2023/12/26 14:35:42 [notice] 1#1: start worker process 44
+2023/12/26 14:35:42 [notice] 1#1: start worker process 45
+2023/12/26 14:35:42 [notice] 1#1: start worker process 46
+2023/12/26 14:35:42 [notice] 1#1: start worker process 47
+2023/12/26 14:35:42 [notice] 1#1: start worker process 48
+2023/12/26 14:36:01 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:8001/", host: "127.0.0.1:8082"
+2023/12/26 14:36:01 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:8001/favicon.ico", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/26 14:39:15 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/26 14:39:15 [notice] 29#29: gracefully shutting down
+2023/12/26 14:39:15 [notice] 30#30: gracefully shutting down
+2023/12/26 14:39:15 [notice] 31#31: gracefully shutting down
+2023/12/26 14:39:15 [notice] 32#32: gracefully shutting down
+2023/12/26 14:39:15 [notice] 36#36: gracefully shutting down
+2023/12/26 14:39:15 [notice] 37#37: gracefully shutting down
+2023/12/26 14:39:15 [notice] 38#38: gracefully shutting down
+2023/12/26 14:39:15 [notice] 35#35: gracefully shutting down
+2023/12/26 14:39:15 [notice] 35#35: exiting
+2023/12/26 14:39:15 [notice] 39#39: gracefully shutting down
+2023/12/26 14:39:15 [notice] 40#40: gracefully shutting down
+2023/12/26 14:39:15 [notice] 41#41: gracefully shutting down
+2023/12/26 14:39:15 [notice] 34#34: gracefully shutting down
+2023/12/26 14:39:15 [notice] 43#43: gracefully shutting down
+2023/12/26 14:39:15 [notice] 46#46: gracefully shutting down
+2023/12/26 14:39:15 [notice] 33#33: gracefully shutting down
+2023/12/26 14:39:15 [notice] 42#42: gracefully shutting down
+2023/12/26 14:39:15 [notice] 47#47: gracefully shutting down
+2023/12/26 14:39:15 [notice] 45#45: gracefully shutting down
+2023/12/26 14:39:15 [notice] 44#44: gracefully shutting down
+2023/12/26 14:39:15 [notice] 48#48: gracefully shutting down
+2023/12/26 14:39:15 [notice] 29#29: exiting
+2023/12/26 14:39:15 [notice] 30#30: exiting
+2023/12/26 14:39:15 [notice] 31#31: exiting
+2023/12/26 14:39:15 [notice] 32#32: exiting
+2023/12/26 14:39:15 [notice] 36#36: exiting
+2023/12/26 14:39:15 [notice] 37#37: exiting
+2023/12/26 14:39:15 [notice] 38#38: exiting
+2023/12/26 14:39:15 [notice] 35#35: exit
+2023/12/26 14:39:15 [notice] 39#39: exiting
+2023/12/26 14:39:15 [notice] 40#40: exiting
+2023/12/26 14:39:15 [notice] 41#41: exiting
+2023/12/26 14:39:15 [notice] 34#34: exiting
+2023/12/26 14:39:15 [notice] 43#43: exiting
+2023/12/26 14:39:15 [notice] 46#46: exiting
+2023/12/26 14:39:15 [notice] 33#33: exiting
+2023/12/26 14:39:15 [notice] 42#42: exiting
+2023/12/26 14:39:15 [notice] 47#47: exiting
+2023/12/26 14:39:15 [notice] 45#45: exiting
+2023/12/26 14:39:15 [notice] 44#44: exiting
+2023/12/26 14:39:15 [notice] 48#48: exiting
+2023/12/26 14:39:15 [notice] 29#29: exit
+2023/12/26 14:39:15 [notice] 30#30: exit
+2023/12/26 14:39:15 [notice] 31#31: exit
+2023/12/26 14:39:15 [notice] 32#32: exit
+2023/12/26 14:39:15 [notice] 36#36: exit
+2023/12/26 14:39:15 [notice] 37#37: exit
+2023/12/26 14:39:15 [notice] 38#38: exit
+2023/12/26 14:39:15 [notice] 39#39: exit
+2023/12/26 14:39:15 [notice] 40#40: exit
+2023/12/26 14:39:15 [notice] 41#41: exit
+2023/12/26 14:39:15 [notice] 34#34: exit
+2023/12/26 14:39:15 [notice] 43#43: exit
+2023/12/26 14:39:15 [notice] 46#46: exit
+2023/12/26 14:39:15 [notice] 33#33: exit
+2023/12/26 14:39:15 [notice] 42#42: exit
+2023/12/26 14:39:15 [notice] 47#47: exit
+2023/12/26 14:39:15 [notice] 45#45: exit
+2023/12/26 14:39:15 [notice] 44#44: exit
+2023/12/26 14:39:15 [notice] 48#48: exit
+2023/12/26 14:39:15 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2023/12/26 14:39:15 [notice] 1#1: worker process 29 exited with code 0
+2023/12/26 14:39:15 [notice] 1#1: worker process 30 exited with code 0
+2023/12/26 14:39:15 [notice] 1#1: worker process 31 exited with code 0
+2023/12/26 14:39:15 [notice] 1#1: worker process 35 exited with code 0
+2023/12/26 14:39:15 [notice] 1#1: worker process 36 exited with code 0
+2023/12/26 14:39:15 [notice] 1#1: worker process 37 exited with code 0
+2023/12/26 14:39:15 [notice] 1#1: worker process 38 exited with code 0
+2023/12/26 14:39:15 [notice] 1#1: worker process 40 exited with code 0
+2023/12/26 14:39:15 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/26 14:39:15 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2023/12/26 14:39:15 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2023/12/26 14:39:15 [notice] 1#1: worker process 32 exited with code 0
+2023/12/26 14:39:15 [notice] 1#1: worker process 33 exited with code 0
+2023/12/26 14:39:15 [notice] 1#1: worker process 34 exited with code 0
+2023/12/26 14:39:15 [notice] 1#1: worker process 39 exited with code 0
+2023/12/26 14:39:15 [notice] 1#1: worker process 42 exited with code 0
+2023/12/26 14:39:15 [notice] 1#1: worker process 44 exited with code 0
+2023/12/26 14:39:15 [notice] 1#1: worker process 45 exited with code 0
+2023/12/26 14:39:15 [notice] 1#1: worker process 46 exited with code 0
+2023/12/26 14:39:15 [notice] 1#1: worker process 48 exited with code 0
+2023/12/26 14:39:15 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/26 14:39:15 [notice] 1#1: signal 17 (SIGCHLD) received from 39
+2023/12/26 14:39:15 [notice] 1#1: signal 17 (SIGCHLD) received from 43
+2023/12/26 14:39:15 [notice] 1#1: worker process 41 exited with code 0
+2023/12/26 14:39:15 [notice] 1#1: worker process 43 exited with code 0
+2023/12/26 14:39:15 [notice] 1#1: worker process 47 exited with code 0
+2023/12/26 14:39:15 [notice] 1#1: exit
+2023/12/28 13:14:24 [notice] 1#1: using the "epoll" event method
+2023/12/28 13:14:24 [notice] 1#1: nginx/1.25.3
+2023/12/28 13:14:24 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/28 13:14:24 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/28 13:14:24 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/28 13:14:24 [notice] 1#1: start worker processes
+2023/12/28 13:14:24 [notice] 1#1: start worker process 29
+2023/12/28 13:14:24 [notice] 1#1: start worker process 30
+2023/12/28 13:14:24 [notice] 1#1: start worker process 31
+2023/12/28 13:14:24 [notice] 1#1: start worker process 32
+2023/12/28 13:14:24 [notice] 1#1: start worker process 33
+2023/12/28 13:14:24 [notice] 1#1: start worker process 34
+2023/12/28 13:14:24 [notice] 1#1: start worker process 35
+2023/12/28 13:14:24 [notice] 1#1: start worker process 36
+2023/12/28 13:14:24 [notice] 1#1: start worker process 37
+2023/12/28 13:14:24 [notice] 1#1: start worker process 38
+2023/12/28 13:14:24 [notice] 1#1: start worker process 39
+2023/12/28 13:14:24 [notice] 1#1: start worker process 40
+2023/12/28 13:14:24 [notice] 1#1: start worker process 41
+2023/12/28 13:14:24 [notice] 1#1: start worker process 42
+2023/12/28 13:14:24 [notice] 1#1: start worker process 43
+2023/12/28 13:14:24 [notice] 1#1: start worker process 44
+2023/12/28 13:14:24 [notice] 1#1: start worker process 45
+2023/12/28 13:14:24 [notice] 1#1: start worker process 46
+2023/12/28 13:14:24 [notice] 1#1: start worker process 47
+2023/12/28 13:14:24 [notice] 1#1: start worker process 48
+2023/12/28 13:18:35 [error] 34#34: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: 127.0.0.1, request: "GET /admin/login/?next=/admin/ HTTP/1.1", upstream: "http://172.19.0.5:8001/admin/login/?next=/admin/", host: "127.0.0.1:8082"
+2023/12/28 13:18:37 [error] 34#34: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: 127.0.0.1, request: "GET /admin/login/?next=/admin/ HTTP/1.1", upstream: "http://172.19.0.5:8001/admin/login/?next=/admin/", host: "127.0.0.1:8082"
+2023/12/28 13:18:37 [error] 34#34: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.19.0.5:8001/favicon.ico", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/login/?next=/admin/"
+2023/12/28 13:18:39 [error] 34#34: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "http://172.19.0.5:8001/", host: "127.0.0.1:8082"
+2023/12/28 13:18:39 [error] 34#34: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.19.0.5:8001/favicon.ico", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/28 13:18:40 [error] 34#34: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "http://172.19.0.5:8001/", host: "127.0.0.1:8082"
+2023/12/28 13:18:40 [error] 34#34: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.19.0.5:8001/favicon.ico", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/28 13:18:40 [error] 34#34: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "http://172.19.0.5:8001/", host: "127.0.0.1:8082"
+2023/12/28 13:18:40 [error] 34#34: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.19.0.5:8001/favicon.ico", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/28 13:18:40 [error] 34#34: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "http://172.19.0.5:8001/", host: "127.0.0.1:8082"
+2023/12/28 13:18:40 [error] 34#34: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.19.0.5:8001/favicon.ico", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/28 13:18:40 [error] 34#34: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: 127.0.0.1, request: "GET / HTTP/1.1", upstream: "http://172.19.0.5:8001/", host: "127.0.0.1:8082"
+2023/12/28 13:18:40 [error] 34#34: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.19.0.5:8001/favicon.ico", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/"
+2023/12/28 13:19:18 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/28 13:19:18 [notice] 29#29: gracefully shutting down
+2023/12/28 13:19:18 [notice] 32#32: gracefully shutting down
+2023/12/28 13:19:18 [notice] 34#34: gracefully shutting down
+2023/12/28 13:19:18 [notice] 33#33: gracefully shutting down
+2023/12/28 13:19:18 [notice] 35#35: gracefully shutting down
+2023/12/28 13:19:18 [notice] 39#39: gracefully shutting down
+2023/12/28 13:19:18 [notice] 31#31: gracefully shutting down
+2023/12/28 13:19:18 [notice] 40#40: gracefully shutting down
+2023/12/28 13:19:18 [notice] 38#38: gracefully shutting down
+2023/12/28 13:19:18 [notice] 41#41: gracefully shutting down
+2023/12/28 13:19:18 [notice] 37#37: gracefully shutting down
+2023/12/28 13:19:18 [notice] 45#45: gracefully shutting down
+2023/12/28 13:19:18 [notice] 30#30: gracefully shutting down
+2023/12/28 13:19:18 [notice] 48#48: gracefully shutting down
+2023/12/28 13:19:18 [notice] 43#43: gracefully shutting down
+2023/12/28 13:19:18 [notice] 47#47: gracefully shutting down
+2023/12/28 13:19:18 [notice] 36#36: gracefully shutting down
+2023/12/28 13:19:18 [notice] 42#42: gracefully shutting down
+2023/12/28 13:19:18 [notice] 44#44: gracefully shutting down
+2023/12/28 13:19:18 [notice] 46#46: gracefully shutting down
+2023/12/28 13:19:18 [notice] 29#29: exiting
+2023/12/28 13:19:18 [notice] 32#32: exiting
+2023/12/28 13:19:18 [notice] 34#34: exiting
+2023/12/28 13:19:18 [notice] 33#33: exiting
+2023/12/28 13:19:18 [notice] 39#39: exiting
+2023/12/28 13:19:18 [notice] 31#31: exiting
+2023/12/28 13:19:18 [notice] 40#40: exiting
+2023/12/28 13:19:18 [notice] 38#38: exiting
+2023/12/28 13:19:18 [notice] 41#41: exiting
+2023/12/28 13:19:18 [notice] 37#37: exiting
+2023/12/28 13:19:18 [notice] 45#45: exiting
+2023/12/28 13:19:18 [notice] 30#30: exiting
+2023/12/28 13:19:18 [notice] 48#48: exiting
+2023/12/28 13:19:18 [notice] 43#43: exiting
+2023/12/28 13:19:18 [notice] 47#47: exiting
+2023/12/28 13:19:18 [notice] 36#36: exiting
+2023/12/28 13:19:18 [notice] 42#42: exiting
+2023/12/28 13:19:18 [notice] 44#44: exiting
+2023/12/28 13:19:18 [notice] 46#46: exiting
+2023/12/28 13:19:18 [notice] 29#29: exit
+2023/12/28 13:19:18 [notice] 32#32: exit
+2023/12/28 13:19:18 [notice] 34#34: exit
+2023/12/28 13:19:18 [notice] 33#33: exit
+2023/12/28 13:19:18 [notice] 39#39: exit
+2023/12/28 13:19:18 [notice] 31#31: exit
+2023/12/28 13:19:18 [notice] 40#40: exit
+2023/12/28 13:19:18 [notice] 38#38: exit
+2023/12/28 13:19:18 [notice] 41#41: exit
+2023/12/28 13:19:18 [notice] 37#37: exit
+2023/12/28 13:19:18 [notice] 45#45: exit
+2023/12/28 13:19:18 [notice] 30#30: exit
+2023/12/28 13:19:18 [notice] 48#48: exit
+2023/12/28 13:19:18 [notice] 43#43: exit
+2023/12/28 13:19:18 [notice] 47#47: exit
+2023/12/28 13:19:18 [notice] 36#36: exit
+2023/12/28 13:19:18 [notice] 42#42: exit
+2023/12/28 13:19:18 [notice] 44#44: exit
+2023/12/28 13:19:18 [notice] 46#46: exit
+2023/12/28 13:19:18 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/12/28 13:19:18 [notice] 1#1: worker process 29 exited with code 0
+2023/12/28 13:19:18 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/28 13:19:18 [notice] 1#1: signal 17 (SIGCHLD) received from 38
+2023/12/28 13:19:18 [notice] 1#1: worker process 38 exited with code 0
+2023/12/28 13:19:18 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/28 13:19:18 [notice] 1#1: signal 17 (SIGCHLD) received from 43
+2023/12/28 13:19:18 [notice] 1#1: worker process 43 exited with code 0
+2023/12/28 13:19:18 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/28 13:19:18 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2023/12/28 13:19:18 [notice] 1#1: worker process 31 exited with code 0
+2023/12/28 13:19:18 [notice] 1#1: worker process 32 exited with code 0
+2023/12/28 13:19:18 [notice] 1#1: worker process 36 exited with code 0
+2023/12/28 13:19:18 [notice] 1#1: worker process 40 exited with code 0
+2023/12/28 13:19:18 [notice] 1#1: worker process 41 exited with code 0
+2023/12/28 13:19:18 [notice] 1#1: worker process 42 exited with code 0
+2023/12/28 13:19:18 [notice] 1#1: worker process 48 exited with code 0
+2023/12/28 13:19:18 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/28 13:19:18 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2023/12/28 13:19:18 [notice] 1#1: worker process 30 exited with code 0
+2023/12/28 13:19:18 [notice] 1#1: worker process 33 exited with code 0
+2023/12/28 13:19:18 [notice] 1#1: worker process 34 exited with code 0
+2023/12/28 13:19:18 [notice] 1#1: worker process 37 exited with code 0
+2023/12/28 13:19:18 [notice] 1#1: worker process 39 exited with code 0
+2023/12/28 13:19:18 [notice] 1#1: worker process 44 exited with code 0
+2023/12/28 13:19:18 [notice] 1#1: worker process 45 exited with code 0
+2023/12/28 13:19:18 [notice] 1#1: worker process 46 exited with code 0
+2023/12/28 13:19:18 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/28 13:19:18 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2023/12/28 13:19:18 [notice] 1#1: worker process 47 exited with code 0
+2023/12/28 13:19:18 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/28 13:19:18 [notice] 1#1: signal 17 (SIGCHLD) received from 47
+2023/12/28 13:19:22 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/12/28 13:20:13 [notice] 1#1: using the "epoll" event method
+2023/12/28 13:20:13 [notice] 1#1: nginx/1.25.3
+2023/12/28 13:20:13 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/12/28 13:20:13 [notice] 1#1: OS: Linux 5.15.133.1-microsoft-standard-WSL2
+2023/12/28 13:20:13 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/28 13:20:13 [notice] 1#1: start worker processes
+2023/12/28 13:20:13 [notice] 1#1: start worker process 29
+2023/12/28 13:20:13 [notice] 1#1: start worker process 30
+2023/12/28 13:20:13 [notice] 1#1: start worker process 31
+2023/12/28 13:20:13 [notice] 1#1: start worker process 32
+2023/12/28 13:20:13 [notice] 1#1: start worker process 33
+2023/12/28 13:20:13 [notice] 1#1: start worker process 34
+2023/12/28 13:20:13 [notice] 1#1: start worker process 35
+2023/12/28 13:20:13 [notice] 1#1: start worker process 36
+2023/12/28 13:20:13 [notice] 1#1: start worker process 37
+2023/12/28 13:20:13 [notice] 1#1: start worker process 38
+2023/12/28 13:20:13 [notice] 1#1: start worker process 39
+2023/12/28 13:20:13 [notice] 1#1: start worker process 40
+2023/12/28 13:20:13 [notice] 1#1: start worker process 41
+2023/12/28 13:20:13 [notice] 1#1: start worker process 42
+2023/12/28 13:20:13 [notice] 1#1: start worker process 43
+2023/12/28 13:20:13 [notice] 1#1: start worker process 44
+2023/12/28 13:20:13 [notice] 1#1: start worker process 45
+2023/12/28 13:20:13 [notice] 1#1: start worker process 46
+2023/12/28 13:20:13 [notice] 1#1: start worker process 47
+2023/12/28 13:20:13 [notice] 1#1: start worker process 48
+2023/12/28 13:23:16 [warn] 36#36: *19 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.20.0.1, server: 127.0.0.1, request: "POST /admin/plant_app/momplantmodel/add/ HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/plant_app/momplantmodel/add/"
+2023/12/28 13:23:32 [warn] 36#36: *19 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.20.0.1, server: 127.0.0.1, request: "POST /admin/plant_app/childplantmodel/1/change/ HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/plant_app/childplantmodel/1/change/"
+2023/12/28 13:23:53 [warn] 36#36: *19 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000003, client: 172.20.0.1, server: 127.0.0.1, request: "POST /admin/plant_app/childplantmodel/2/change/ HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/plant_app/childplantmodel/2/change/"
+2023/12/28 13:23:59 [warn] 35#35: *18 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000004, client: 172.20.0.1, server: 127.0.0.1, request: "POST /admin/plant_app/childplantmodel/3/change/ HTTP/1.1", host: "127.0.0.1:8082", referrer: "http://127.0.0.1:8082/admin/plant_app/childplantmodel/3/change/"
