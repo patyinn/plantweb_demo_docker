@@ -21,7 +21,7 @@ from .token import Token
 from .models import MomPlantModel, ChildPlantModel, ChildImageModel, CustomerModel, TransactionModel, OrderModel
 from .forms import CustomerModelForm, TranscationModelForm, RegisterModelForm, LoginModelForm
 
-DOMAIN = settings.CSRF_TRUSTED_ORIGINS[0]
+DOMAIN = "http://127.0.0.1:8001"
 
 # Create your views here.
 def _call_get_cart_api(request):
